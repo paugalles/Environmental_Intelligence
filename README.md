@@ -42,7 +42,6 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 * [AI for Earth, Microsoft](https://www.microsoft.com/en-us/ai/ai-for-earth)
 * [The Humanitarian Data Exchange](https://data.humdata.org/): Find, share and use humanitarian data all in one place
 
-
 ## Earth Observation
 * [Earth Observation	Sentinel](https://apps.sentinel-hub.com/eo-browser/)
 * [Planet](https://www.planet.com/)
@@ -63,6 +62,7 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 * [List of GIS Data Sources](https://en.wikipedia.org/wiki/List_of_GIS_data_sources)
 * [Open Data Cube](https://www.opendatacube.org/): An Open Source Geospatial Data Management
 & Analysis Platform
+* [Thematic Explotation Platforms](https://tep.eo.esa.int/): ESA project. A set of platforms covering several topics: Coastal, Forestry, Hydrology, Geohazards, Polar, Urban abd Food Security
 
 
 ## Climate
